@@ -1,0 +1,20 @@
+{
+  "name": "docscan",
+  "version": "1.0.0",
+  "description": "Decentralized Document Verification using Blockchain and IPFS",
+  "private": true,
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:hardhat": "hardhat run scripts/deploy.js --network hardhat",
+    "node": "hardhat node",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "start:all": "./start-all.sh"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
