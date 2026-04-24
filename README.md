@@ -1,5 +1,11 @@
 # DocScan – Decentralized Document Verification
 
+
+https://github.com/user-attachments/assets/4db7906c-925b-4426-8196-0cd3fb013254
+
+
+
+
 Academic document verification using **Blockchain** (Ethereum) and **IPFS**. Documents are stored off-chain on IPFS; only their SHA-256 hashes and IPFS CIDs are recorded on-chain for tamper-proof verification.
 
 Based on the synopsis: *Decentralized Document Verification using Blockchain and IPFS* (B.Tech project, AKGEC / Dr. A.P.J. Abdul Kalam Technical University).
